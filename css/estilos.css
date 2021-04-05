@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
 }
+
 body{
   font-family: 'Courier New';
   font-size: 62.5%;
@@ -10,7 +11,7 @@ body{
   text-align: center;
   font-size: 16px;
   margin: 0;
-  padding: 0;
+  padding: 0.5em;
 }
 
 .container{
@@ -44,5 +45,7 @@ body{
     padding: 25px 0;
     border: 2px solid black;
     text-align: center;
+    margin: 0 auto;
+    box-shadow:10px 10px 5px rgba(15, 20, 15,0.4);
 }
 
